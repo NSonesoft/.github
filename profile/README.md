@@ -1,4 +1,4 @@
-## NSONESOFT
+## NSonesoft
 
 > *통신+IT+해양 융합 기술의 No1. DX Partner*
 >
